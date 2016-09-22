@@ -1,0 +1,37 @@
+body {
+	background: url(araragi_background.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+}
+h1, h2 {
+	text-align: center;
+}
+#wrap {
+	border: 0;
+	width: 85%;
+	margin: 0 10%;
+}
+#wrap img {
+	display: block;
+	margin: auto;
+	width: 25%;
+}
+span {
+	background-color: black;
+	color: red;
+	font-weight: bold;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: grey;
+}
+tr:nth-child(even) {
+	background-color: black;
+}
+tr:nth-child(odd) {
+	background-color: grey;
+}

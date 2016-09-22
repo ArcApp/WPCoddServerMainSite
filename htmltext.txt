@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<title>All About James Bagwell</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="stylesheet" type="text/css" href="main.css"/>
+</head>
+
+<body>
+	<div id="wrap">
+	<h1>Welcome to my humble abode.</h1>
+	<p><img src="me.jpg" alt="Check me out!"/></p>
+
+	<h2>About Me</h2>
+	<p>Hello internet person!  My name is James Bagwell, and I'm a current student at <span>Georgia State University</span> studying <span>Computer Science</span>.  I'm 24 years old, and I'll be graduating at the end of 2017.</p>
+
+	<br/>
+	<p>My current interests include:</p>
+		<ul>
+			<li><a href="http://www.stevepavlina.com">Personal Development</a></li>
+			<li><a href="https://myanimelist.net/profile/ArcApp">Watching anime</a></li>
+			<li><a href="https://en.wikipedia.org/wiki/Lucid_dream#Definition">Lucid Dreaming</a></li>
+			<li><a href="https://www.polyphasicsociety.com/">Polyphasic sleep</a></li>
+			<li><a href="https://en.wikipedia.org/wiki/Tai_chi">TaiChi</a></li>
+			<li><a href="http://www.reddit.com">Reddit</a></li>
+		</ul>
+	<p>My top 7 currently airing anime are:</p>
+		<ol>
+			<li>Re:ZERO -Starting Life in Another World-</li>
+			<li>Mob Psycho 100</li>
+			<li>Momokuri</li>
+			<li>Alderamin on the Sky</li>
+			<li>NEW GAME!</li>
+			<li>JoJo's Bizarre Adventure</li>
+			<li>Qualidea Code</li>
+		</ol>
+
+	<br/>
+	<p>I've been a "professional student" for quite awhile, mainly because I've changed schools and majors several times while working on and off:</p><br/>
+	<table>
+		<tr>
+			<th>Education</th>
+			<th>Job History</th>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>UC Berkeley (2010-2011)
+						<ol>
+							<li>Chemical Engineering</li>
+							<li><span>Computer Science</span></li>
+						</ol>
+					</li>
+					<li><span>Georgia State</span> (2012-current)
+						<ol>
+							<li>Speech Communication</li>
+							<li>Philosophy</li>
+							<li><span>Computer Science</span></li>
+						</ol>
+					</li>
+				</ul>
+			</td>
+			<td>
+				<ol>
+					<li>O'Charley`s
+						<ul>
+							<li>host</li>
+						</ul>
+					</li>
+					<li>Chick-fil-A
+						<ul>
+							<li>Front Team member</li>
+						</ul>
+					</li>
+					<li>Jimmy John's
+						<ul>
+							<li>Delivery Biker</li>
+						</ul>
+					</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+
+	<br/>
+	<p>Although I've been attending school for quite a while, my <span>goal</span> will be realized soon enough.  After all,</p><div>"The journey is more important than the destination."</div>
+	<br/>
+
+	<p>My current <span>goals</span> include:</p>
+		<ol>
+			<li>Reviewing Java</li>
+			<li>Relearning the Yang Taichi long form</li>
+			<li>Adapting to <span>Uberman</span> sleeep</li>
+		</ol>
+
+	<h2>CSC 4370 Information</h2>
+	<ul>
+		<li>For GSU's <span>Computer Science</span> homepage, click <a href="http://www.cs.gsu.edu">here</a>.</li>
+	</ul>
+
+	<table>
+		<tr>
+			<th>Assignments</th>
+			<th>Projects</th>
+		</tr>
+		<tr>
+			<td>Assignment 1</td>
+			<td>Project 1</td>
+		</tr>
+		<tr>
+			<td>Assignment 2</td>
+			<td>Project 2</td>
+		</tr>
+		<tr>
+			<td>Assignment 3</td>
+			<td>Project 3</td>
+		</tr>
+		<tr>
+			<td>Assignment 4</td>
+			<td>Project 4</td>
+		</tr>
+	</table>
+	</div>
+
+ <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1" height="31" width="88" /></a>
+  </p>
+  <p>
+	<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
+</body>
+</html>
